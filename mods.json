@@ -1,0 +1,7 @@
+{
+  "mods": [
+    { "name": "sodium", "version": "1.2.0" },
+    { "name": "lithium", "version": "0.11.1" },
+    { "name": "modmenu", "version": "4.0.0" }
+  ]
+}
